@@ -1,0 +1,26 @@
+.SubCard {
+  margin: 15px;
+}
+
+.SubCardHeader {
+  display: flex;
+  justify-content: space-between;
+  border-bottom: solid 1px #727272;
+  font-weight: 500;
+  margin-bottom: 10px;
+}
+
+.Close {
+  margin-bottom: 5px;
+  padding: 3px;
+  cursor: pointer;
+}
+
+.SubCardDetails {
+  display: flex;
+  flex-direction: column;
+}
+
+.SubCardDetails > * {
+  margin-top: 10px;
+}

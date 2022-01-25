@@ -1,0 +1,35 @@
+.Pagination {
+  /* position: fixed;
+  bottom: 0; */
+  background-color: white;
+  width: 95vw;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.Button {
+  background-color: #1487de;
+  border: none;
+  color: white;
+  padding: 5px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.ButtonDisabled {
+  background-color: #747474;
+  border: none;
+  color: white;
+  padding: 5px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
