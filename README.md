@@ -10,7 +10,7 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## More
+### More
 
 Nextjs App showing all Pokemons and their details (strengths, moves, etc),
 
